@@ -9209,7 +9209,7 @@ snyk-try-require@^2.0.0:
     lodash.clonedeep "^4.3.0"
     lru-cache "^5.1.1"
 
-snyk@1.514.0, snyk@^1.514.0:
+snyk@^1.514.0:
   version "1.514.0"
   resolved "https://registry.yarnpkg.com/snyk/-/snyk-1.514.0.tgz#56084634600f8ff21505f330c8e27185c6334b9b"
   integrity sha512-DfSSsce11OR7RV1T1vS+ZFq50HgD8SxMz2h2PIw4O8Jrjhhw3YvzHKE9GQJGj6N4vZJnYWbERY2dUgTu+IhLnw==
@@ -10763,9 +10763,9 @@ write@1.0.3:
     mkdirp "^0.5.1"
 
 ws@^7.2.3:
-  version "7.3.0"
-  resolved "https://registry.yarnpkg.com/ws/-/ws-7.3.0.tgz#4b2f7f219b3d3737bc1a2fbf145d825b94d38ffd"
-  integrity sha512-iFtXzngZVXPGgpTlP1rBqsUK82p9tKqsWRPg5L56egiljujJT3vGAYnHANvFxBieXrTFavhzhxW52jnaWV+w2w==
+  version "7.4.6"
+  resolved "https://registry.yarnpkg.com/ws/-/ws-7.4.6.tgz#5654ca8ecdeee47c33a9a4bf6d28e2be2980377c"
+  integrity sha512-YmhHDO4MzaDLB+M9ym/mDA5z0naX8j7SIlT8f8z+I0VtzsRbekxEutHSme7NPS2qE8StCYQNUnfWdXta/Yu85A==
 
 xdg-basedir@^4.0.0:
   version "4.0.0"
