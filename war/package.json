@@ -61,7 +61,7 @@
     "raf": "^3.4.1",
     "sortablejs": "^1.13.0",
     "window-handle": "^1.0.0",
-    "snyk": "^1.514.0"
+    "snyk": "^1.680.0"
   },
   "browserslist": [
     "defaults",
